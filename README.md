@@ -1,4 +1,4 @@
-# Playwright-NMLS-Scraper
+# ZIP-NMLS-Playwright-Scraper
 
 Web Scraping NMLS Consumer Access Data
 Project Overview
